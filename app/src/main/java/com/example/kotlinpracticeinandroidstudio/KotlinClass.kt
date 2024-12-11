@@ -1,7 +1,7 @@
 package com.example.kotlinpracticeinandroidstudio
 
 fun main() {
-    findFriendScore(75)
+    findFriendScore(76)
 }
 
 fun findFriendScore(score: Int) {
